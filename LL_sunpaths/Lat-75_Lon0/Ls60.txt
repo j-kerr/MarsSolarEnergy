@@ -1,0 +1,1 @@
+#date (JD)	SZA (deg)	Az (deg)	LTST (hrs) 	Ls (deg) 

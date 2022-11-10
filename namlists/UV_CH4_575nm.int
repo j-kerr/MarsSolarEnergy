@@ -1,0 +1,22 @@
+$pfuncs
+ planet='Mars', ncoefs=64, spabnd=0.0,0.0,-1.0,
+ DELTAP=1.1, 5.1 
+ output='single.out', title='UV test',
+ wavl=0.575, wavlmin=0.55, wavlmax=0.6,
+ tauabs=0.0, 0.0,
+ tauray= 0.0003963, 0.0021976
+ nmie=0.0,2.0,
+ wmie=0.90457,0.90457,
+ A=1.4,1.4
+ B=0.3,0.3
+ AMU1=1.5003,1.5003,
+ AMU2=0.0035097,0.0035097 
+ NMIEPTS=10,
+ Rsurface= 1.14, 1.14,
+ XLARGE=5,5,
+ G= 70.0, 70.0,
+ THETA_MIN=130.0, 130.0
+ gr=0.69,
+ F0=20.0,
+ hapke_b0=0.55, hapke_h=0.017, hapke_c=0.0, hapke_b=0.11,
+$end

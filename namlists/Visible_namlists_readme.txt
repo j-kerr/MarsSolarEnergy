@@ -1,0 +1,5 @@
+425:
+
+Mie params: ref indices & omega0 extrapolated from Wolff et al 2009, hapke params taken from Tomasko et al 1999 as the w parameter is not discussed in Wolf et al 2009 - there is good agreement with the Tomasko & Wolff values for 450nm ish. A & B are constant with the UV model, and are still assumed to be cylindrical particles. X large is assumed to be 5, G is taken from the Tomasko value and Theta min is taken as the minimum of the band 1 phase function curve. Reff and v are still 1.4 and 0.3 respectively.
+
+575: I don't have phase function mins so take that for 450 (130). I will take the one at 900 for the 750 onwards (125). 
